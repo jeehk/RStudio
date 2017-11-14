@@ -1,0 +1,20 @@
+20171113
+
+
+R 다운로드
+https://cran.r-project.org/
+
+R스튜디오 다운로드
+https://www.rstudio.com/
+한글인식 못하는 경우 있음. window 사용자 id가 영문일것
+R tools > global options 설정 필요
+
+자바
+https://www.oracle.com/index.html
+1.8.0 버전으로 설치, SE버전
+시스템 환경변수로 JAVA_HOME 설정
+
+**R스튜디오 사이트에서 시각화 지원 - shiny **
+
+
+
